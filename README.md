@@ -1,4 +1,4 @@
-# Scraping-ngodarpan.gov.in-with-Beautiful-Soup
+# Scraping-ngodarpan.gov.in-with-BeautifulSoup
 The NGO-DARPAN is a platform that provides space for interface between VOs/NGOs and key Government Ministries / Departments / Government Bodies, to start with. Later it is proposed to cover all Central Ministries / Departments / Government Bodies.
 This is a free facility offered by the NITI Aayog in association with National Informatics Centre to bring about greater partnership between government & voluntary sector and foster better transparency, efficiency and accountability.
 The NGO-DARPAN started out as an initiative of the Prime Minister's Office, to create and promote a healthy partnership between VOs/NGOs and the Government of India. The Portal is managed at present by NITI Aayog.There are 77553 ngos registered in this portal.
